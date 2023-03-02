@@ -1,7 +1,6 @@
 // Q.:- Vineet is taking a tough examination. The question paper consists of N objective problems and each problem has 4 options A,B,C, and D, out of which, exactly one option is correct.
 
 // Since Vineet did not study for the exam, he does not know the answer to any of the problems. Chef was looking nearby for help when his friend somehow communicated the following information:
-
 // Exactly N A problems have option A as the answer.
 // Exactly N_B problems have option B as the answer.
 // Exactly N_C problems have option C as the answer.
