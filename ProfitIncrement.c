@@ -2,7 +2,6 @@
 // He has been selling the fruit for X rupees (X is a multiple of 100). He earns a profit of Y rupees on selling the fruit currently.
 
 // Vineet decided to increase the selling price by 10%. Please help him calculate his new profit after the increase in selling price.
-
 // Note that only the selling price has been increased and the buying price is same.
 
 #include <stdio.h>
