@@ -1,5 +1,4 @@
 // Q.:- Vineet has started studying for the upcoming test. The textbook has N pages in total. Chef wants to read at most X pages a day for Y days.
-
 // Find out whether it is possible for Vineet to complete the whole book.
 
 #include <stdio.h>
