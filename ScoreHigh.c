@@ -6,7 +6,6 @@
 // Exactly N_D  problems have option D as the answer.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
