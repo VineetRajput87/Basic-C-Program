@@ -2,7 +2,6 @@
 // Given that your iPhone has X% battery health, find whether it is in optimal condition.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
