@@ -1,7 +1,6 @@
 // Q.:- Vineet considers the climate HOT if the temperature is above 20, otherwise he considers it COLD. You are given the temperature C, find whether the climate is HOT or COLD.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
