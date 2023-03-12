@@ -2,7 +2,6 @@
 // Find out whether it is possible for Vineet to complete the whole book.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
