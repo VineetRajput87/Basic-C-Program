@@ -2,7 +2,6 @@
 
 // Problem A is worth 500 points at the start of the contest.
 // Problem B is worth 1000 points at the start of the contest.
-
 // Once the contest starts, after each minute:
 
 // Maximum points of Problem A reduce by 2 points .
