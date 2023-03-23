@@ -1,7 +1,6 @@
 // Q.:- In Iceland, each chicken has X legs and each duck has Y legs. Vineet's farm can have exactly one type of bird.
 
 // Given that the birds on the farm have a total of Z legs:
-
 // 1. Print CHICKEN, if the farm can have only chickens but not ducks.
 // 2. Print DUCK, if the farm can have only ducks but not chickens.
 // 3. Print ANY, if the farm can have either chickens or ducks.
