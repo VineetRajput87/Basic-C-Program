@@ -3,7 +3,6 @@
 // Given two numerical values A and B you need to help Vineet in finding the relationship between them that is,First one is greater than second or, First one is less than second or, First and second one are equal.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
