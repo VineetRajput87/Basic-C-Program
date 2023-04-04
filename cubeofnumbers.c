@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{  
+{
    int i,num;
    printf("Input number of terms : ");
    scanf("%d",&num);
