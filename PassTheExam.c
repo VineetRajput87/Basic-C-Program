@@ -7,7 +7,6 @@
 // Determine whether Chef passes the exam or not.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
