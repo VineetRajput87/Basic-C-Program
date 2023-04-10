@@ -5,7 +5,6 @@ struct node {
     struct node *next;  
 }*head;
 
-
 void createList(int n);
 void insertNodeAtBeginning(int data);
 void displayList();
