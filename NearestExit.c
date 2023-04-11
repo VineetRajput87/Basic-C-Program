@@ -1,5 +1,4 @@
 // Q.:- There are two exits in a bus with 100 seats:
-
 // First exit is located beside seat number 1.
 // Second exit is located beside seat number 100.
 // Seats are arranged in a straight line from 1 to 100 with equal spacing between any 2 adjacent seats.
