@@ -2,7 +2,6 @@
 // NOTE: Vineet will not take any candies himself and will distribute all the candies.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
