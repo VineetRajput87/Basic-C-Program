@@ -1,7 +1,6 @@
 // Q.:- Vineet participated in a contest and got a rank X.
 
 // Vineet is trying to find his name in the ranklist but there are too many pages.
-
 // Each page consists of 25 participants. Vineet wants to find the exact page number which contains his name.
 // Help Vineet find the page number.
 
