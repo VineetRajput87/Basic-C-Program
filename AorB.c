@@ -8,7 +8,6 @@
 // Maximum points of Problem B reduce by 4 points.
 
 // It is known that Vineet requires X minutes to solve Problem A correctly and Y minutes to solve Problem B correctly.
-
 // Find the maximum number of points Vineet can score if he optimally decides the order of attempting both the problems.
 
 #include <stdio.h>
