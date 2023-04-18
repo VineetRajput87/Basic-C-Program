@@ -3,7 +3,6 @@
 // Can you help Alice in finding out the minimum number of games she needs to win in order to make her rating greater than or equal to Y?
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
