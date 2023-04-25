@@ -5,7 +5,6 @@
 // Determine whether he can set the temperature to B degrees for a perfect bath.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
