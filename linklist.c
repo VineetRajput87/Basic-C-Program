@@ -9,7 +9,6 @@ void createList(int n);
 void insertNodeAtBeginning(int data);
 void displayList();
 
-
 int main()
 {
     int n, data;
