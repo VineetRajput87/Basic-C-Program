@@ -1,4 +1,4 @@
-// q.:- Given an Integer N, write a program to reverse it.
+// q.:- Given an Integer N, write a program to reverse it.  
 # include <stdio.h>
 #include<math.h>
 int main() {
