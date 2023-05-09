@@ -4,7 +4,7 @@
 #include <stdio.h>
 int main(void) 
 {
-	int t;
+	int t;  
 	scanf("%d",&t);
 	while(t--)
 	{
