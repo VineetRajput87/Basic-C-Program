@@ -1,6 +1,5 @@
 // Q.:- Vineet has N candies. He has to distribute them to exactly M of his friends such that each friend gets equal number of candies and each friend gets even number of candies. Determine whether it is possible to do so.
 // NOTE: Vineet will not take any candies himself and will distribute all the candies.
-
 #include <stdio.h>
 int main(void) 
 {
