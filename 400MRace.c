@@ -18,7 +18,7 @@ int main(void)
 	    printf("BOB\n");
 	    else
 	    printf("CHARLIE\n");
-	}
+	} 
 	return 0;
 }
 
