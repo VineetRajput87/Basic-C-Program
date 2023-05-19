@@ -3,7 +3,6 @@
 // Note that it is possible that Vineet cannot win the game, no matter what is the 3-rd number. In such cases, report −1 as the answer.
 
 #include <stdio.h>
-
 int main(void) 
 {
 	int t;
