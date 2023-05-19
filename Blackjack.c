@@ -2,7 +2,6 @@
 // Given the first two numbers A and B, that have been drawn by Vineet, what should be 3-rd number that should be drawn by the Vineet in order to win the game?
 // Note that it is possible that Vineet cannot win the game, no matter what is the 3-rd number. In such cases, report −1 as the answer.
 
-
 #include <stdio.h>
 
 int main(void) 
