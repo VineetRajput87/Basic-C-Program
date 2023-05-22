@@ -11,7 +11,7 @@ int main(void)
 	    scanf("%d",&a);
 	    if(a>=80)
 	    printf("YES\n");
-	    else
+	    else 
 	    printf("NO\n");
 	}
 	return 0;
