@@ -9,7 +9,7 @@ int main(void)
 	{ 
 	    int a;
 	    scanf("%d",&a);
-	    if(a>=80)
+	    if(a>=80) 
 	    printf("YES\n");
 	    else 
 	    printf("NO\n");
