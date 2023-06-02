@@ -9,7 +9,7 @@ int main(void)
 	int t; 
 	scanf("%d",&t);
 	while(t--)
-	{
+	{ 
 	    int a,b,c,d,temp,temp1;
 	    scanf("%d %d %d %d",&a,&b,&c,&d);
 	    temp =a-c;
