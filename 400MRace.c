@@ -11,7 +11,7 @@ int main(void)
 	while(t--)
 	{
 	    int a,b,c;
-	    scanf("%d %d %d",&a,&b,&c);
+	    scanf("%d %d %d",&a,&b,&c); 
 	    if(a<b && a<c)
 	    printf("ALICE\n");
 	    else if(b<a && b<c)
