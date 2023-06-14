@@ -3,7 +3,6 @@
 // The temperature rises by 1 degree on mixing 1 litre of hot water.
 // The temperature drops by 1 degree on mixing 1 litre of cold water.
 // Determine whether he can set the temperature to B degrees for a perfect bath.
-
 #include <stdio.h>
 int main(void) 
 {
