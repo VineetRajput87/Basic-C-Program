@@ -16,7 +16,7 @@ int main(void)
 	    if(a<b)
 	    {
 	        if(b-a<=c)
-	        printf("YES\n");
+	        printf("YES\n"); 
 	        
 	        else 
 	        printf("NO\n");
