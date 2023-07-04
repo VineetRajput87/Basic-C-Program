@@ -2,7 +2,7 @@
 // Vineet can climb either Y steps or 1 step in one move.
 // Find the minimum number of moves required by him to reach exactly the stair numbered X.
 #include <stdio.h>
-int main(void) 
+int main(void)
 {
 	int t;
 	scanf("%d",&t);
